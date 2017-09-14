@@ -1,6 +1,6 @@
 # Welcome to data shmiggler page!
 
-### [R/main.md](R/main.md)
+### [Welcome to R shmiggler](R/main.md)
 ## welcome to Python shmiggler!
 
 
